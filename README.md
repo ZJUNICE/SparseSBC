@@ -6,7 +6,7 @@ This is a research project and by definition is unstable. Please write to us if 
 
 # Related Paper:
 
-- Tong S, Yu x, Li R, et al. Alternate Learning based Sparse Semantic Communications for Visual Transmission. 
+- Tong S, Yu X, Li R, et al. Alternate Learning based Sparse Semantic Communications for Visual Transmission, in *Proc. PIMRC 2023*, Canada, Sep. 2023.
 
 
 
